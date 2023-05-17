@@ -1,4 +1,4 @@
-# Hi there 👋
+# Bonjour ! 👋
 
 I’m a software developper since I graduated from Supinfo in 2007. At the time I coded in Java using Struts MVC with Hibernate. It was Firefox 1.4 era and the beginning of JQuery ^^.
 
@@ -12,7 +12,7 @@ I use a lot of “DD” suffixed philosophies in my day to day work :
 
 I’m an adept of *clean code* and *best practices*. I truly believe in the *Software Craftsmanship manifesto*. I believe even more in the Agile values.
 
-I’ve been trained on Scrum and I got Scrum Master Certification altough I’m not a “Scrum by the book” guy. I see agile frameworks like toolboxes to solve a team problems.
+I’ve been trained on Scrum and I got *Scrum Master Certification* altough I’m not a “Scrum by the book” guy. I see agile frameworks like toolboxes to solve a team problems.
 
 I try to go to craft oriented conferences as often as possible. I go to NCrafts and Domain Driven Design also.
 
