@@ -18,7 +18,7 @@ I try to go to craft oriented conferences as often as possible. I go to NCrafts 
 
 # Where am I ?
 
-I'm working for [Arolla](https://www.arolla.fr). I work as a consultant and instructor for *TDD* and *Working on legacy code*.
+I'm working for [Arolla](https://www.arolla.fr). I work as a consultant and instructor on *TDD*, *Working on legacy code* and *Lead Tech*.
 
 <!--
 **macreiben-dev/macreiben-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
